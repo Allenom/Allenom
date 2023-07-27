@@ -11,7 +11,7 @@ Portfolio.
 Django app:
 
 http://92.255.78.40:8000
-
+<!---
 Wordpress elementor:
 
 https://co76799.tmweb.ru
@@ -23,7 +23,7 @@ https://pw1115968.sprint.1t.ru/
 Wordpress + HTML + CSS (on snipets):
 
 https://iw1115968.sprint.1t.ru
-
+--->
 
 HTML+CSS:
 
