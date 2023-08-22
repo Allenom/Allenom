@@ -20,7 +20,7 @@ https://github.com/Allenom/shoes-shop
 
 Project "Расту, играя!" – platform with educational materials for children.  
 Stack: PHP HTML CSS JS  
-https://rastu-igraya.ru/main/  
+https://rastu-igraya.ru/main  
 https://github.com/Allenom/grow-play  
 
 Calculator on ReactJS.  
