@@ -5,28 +5,28 @@
 - 📫 How to reach me danil.ignatkin@gmail.com
 
 
-Портфолио
 
+Portfolio:
 
-Проект сайта личного кабинета с отрядами, мероприятиями, личным кабинетом для
-Волгоградского регионального отделения российских студенческих отрядов.
-Стэк: Django SQLite HTML CSS JS
+Web portal with detachments, events, personal accounts for
+Volgograd regional branch of Russian student detachments.
+Stack: Django SQLite HTML CSS JS
 http://92.255.78.40:8000
 https://github.com/Allenom/VRO_RSO
 
 
-E-commerce проект на ReactJS
+E-commerce project on ReactJS
 https://allenom.github.io/shoes-shop
 https://github.com/Allenom/shoes-shop
 
 
-Проект "Расту, играя!" – платформа с развивающими материалами для детей.
-Стэк: PHP HTML CSS JS
+Project "Расту, играя!" – platform with educational materials for children.
+Stack: PHP HTML CSS JS
 https://rastu-igraya.ru/main/
 https://github.com/Allenom/grow-play
 
 
-Калькулятор на ReactJS.
+Calculator on ReactJS.
 https://allenom.github.io/calculator
 https://github.com/Allenom/calculator
 
