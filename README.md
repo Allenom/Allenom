@@ -2,24 +2,16 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on my study projects
-- 📫 How to reach me danil.ignatkin@gmail.com
-
-@Allenom
-👀 I’m interested in computer science
-🌱 I’m currently learning web developmen
+- 📫 How to reach me danil.ignatkin@gmail.com  
 
 
-Portfolio:
+Portfolio:  
 
-Web portal with detachments, events, personal accounts for
-
-Volgograd regional branch of Russian student detachments.
-
-Stack: Django SQLite HTML CSS JS
-
-http://92.255.78.40:8000
-
-https://github.com/Allenom/VRO_RSO
+Web portal with detachments, events, personal accounts for  
+Volgograd regional branch of Russian student detachments.  
+Stack: Django SQLite HTML CSS JS  
+http://92.255.78.40:8000  
+https://github.com/Allenom/VRO_RSO  
 
 
 E-commerce project on ReactJS
