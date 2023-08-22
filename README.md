@@ -14,7 +14,7 @@ http://92.255.78.40:8000
 https://github.com/Allenom/VRO_RSO  
 
 
-E-commerce project on ReactJS  
+Online Shop React
 https://allenom.github.io/shoes-shop  
 https://github.com/Allenom/shoes-shop  
 
