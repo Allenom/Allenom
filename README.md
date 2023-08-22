@@ -4,30 +4,44 @@
 - 💞️ I’m looking to collaborate on my study projects
 - 📫 How to reach me danil.ignatkin@gmail.com
 
+@Allenom
+👀 I’m interested in computer science
+🌱 I’m currently learning web developmen
 
 
 Portfolio:
 
 Web portal with detachments, events, personal accounts for
+
 Volgograd regional branch of Russian student detachments.
+
 Stack: Django SQLite HTML CSS JS
+
 http://92.255.78.40:8000
+
 https://github.com/Allenom/VRO_RSO
 
 
 E-commerce project on ReactJS
+
 https://allenom.github.io/shoes-shop
+
 https://github.com/Allenom/shoes-shop
 
 
 Project "Расту, играя!" – platform with educational materials for children.
+
 Stack: PHP HTML CSS JS
+
 https://rastu-igraya.ru/main/
+
 https://github.com/Allenom/grow-play
 
 
 Calculator on ReactJS.
+
 https://allenom.github.io/calculator
+
 https://github.com/Allenom/calculator
 
 <!---
